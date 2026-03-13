@@ -1,5 +1,5 @@
 ---
-title: "Assignment 4: Replicate Your Project Study’s Analysis"
+title: "Can Irrigation Infrastructure Mitigate the Effect of Rainfall Shocks on Conflict? Evidence from Indonesia"
 format: html
 author: "Austin Martinez, Henry Oliver, Aakriti Poudel"
 date: 03/06/2026
@@ -7,6 +7,14 @@ execute:
   warning: false
   message: false
 ---
+
+## [Repository Link](https://github.com/austinmartinez12/eds241-final-project)
+
+![](images/image.png)
+
+## Introduction
+add introduction - what can readers find in this tutorial? What design is covered?
+
 
 ```{r}
 # Load in libraries
