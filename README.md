@@ -46,7 +46,7 @@ Zip file has the following file structure:
 
 -   ajae12092-sup-0001-supinfo/AJAE MS#19355-Data and Codes-Gatti/data.dta
 
--   Create a folder within this project titled data, populate with `data.dta`.
+-   Create a folder within this project titled data, populate with `AJAE MS#19355-Data and Codes-Gatti` folder.
 
 -   Use second code chunk of `blog_post_final.qmd` to convert the DTA to a CSV
 

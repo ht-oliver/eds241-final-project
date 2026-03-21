@@ -55,7 +55,7 @@ suppressMessages({
 raw_data <- read_dta("data/AJAE MS#19355-Data and Codes-Gatti/data.dta")
 
 # Create CSV from dta file
-# write.csv(raw_data, "irrigation_data.csv", row.names = FALSE)
+# write.csv(raw_data, "data/irrigation_data.csv", row.names = FALSE)
 
 # Read in data
 irrigation <- read_csv(here::here("data", "irrigation_data.csv"))
